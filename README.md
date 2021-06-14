@@ -39,3 +39,4 @@ Please list them!
 12. NESCAFE Excella
 13. Moka
 14. Long Macchiato
+15. Starbacks Latte
