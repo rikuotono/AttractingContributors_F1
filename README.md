@@ -32,3 +32,4 @@ I want to know the name of your favorite Doraemon's Secret Tools. I'm looking fo
 11. Tora Dora!
 12. Humanity Has Declined
 13. Mouryou no hako
+14. Koe no katachi
