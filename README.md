@@ -10,7 +10,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-
 # List of favorite song
 1. Closer(the chainsmokers)
 2. DAYBREAK FRONTLINE
@@ -23,3 +22,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. 欲望に満ちた青年団
 10. rose
 11. puyopuyo
+12. supernova (ELLEGARDEN)
