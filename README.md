@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 10. rose
 11. puyopuyo
 12. supernova (ELLEGARDEN)
+13. Summer - Joe Hisaishi
