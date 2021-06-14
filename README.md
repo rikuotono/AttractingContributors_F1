@@ -32,4 +32,4 @@ I want contributors to help me list some favorite F1 drivers!!
 6. Charles Leclerc
 7. Pierre Gasly
 8. Satoru Nakajima
-
+9. Mick Schumacher
