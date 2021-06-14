@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7.Germany</br>
 8.Russia</br>
 9.England +1</br>
+10.Finland</br>
